@@ -21,8 +21,8 @@
   },
   "homepage": "https://github.com/rmorabia/rashee#readme",
   "dependencies": {
-    "chalk": "^5.2.0",
-    "yargs": "^17.7.2"
+    "chalk": "5.2.0",
+    "yargs": "17.7.2"
   },
   "devDependencies": {
     "eslint": "^8.40.0",
